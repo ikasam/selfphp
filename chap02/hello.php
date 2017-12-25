@@ -6,9 +6,9 @@
 </head>
 <body>
 <?php
-// 'print' method is operation for display the string which is assigned.
-print 'Hello, World! <br />';
-print 'Hello, everyone!';
+// 'print' method is the method to display the string which was passed to arguments.
+print 'こんにちは、世界！ <br />';
+print 'こんにちは、みなさん！';
 ?>
 </body>
 </html>
