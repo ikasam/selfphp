@@ -7,8 +7,8 @@
 <body>
 <?php
 // 'print' method is operation for display the string which is assigned.
-print 'Hello, World! <br />';
-print 'Hello, everyone!';
+print 'こんにちは、世界！ <br />';
+print 'こんにちは、みなさん！';
 ?>
 </body>
 </html>
